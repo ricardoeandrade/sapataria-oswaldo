@@ -1,0 +1,50 @@
+
+
+
+body{
+    background-color: #ae8e7c;
+}
+.page-title{
+
+    color:#8E3200;
+    margin: 40px auto 5px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 30pt;
+    color: 8E3200;
+    
+
+}
+header{
+    background-color: #471d12;
+}
+
+
+h2{
+   
+    margin: 5px auto 25px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 15pt;
+    color: #8E3200;
+    
+ 
+}
+main{
+    margin: 5px auto 25px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 15pt;
+    color: #8E3200;
+    
+}
+.article-title{
+    color: blue;
+    margin: 40px auto 5px;
+    padding-left: 0px;
+    width: 120%;
+    font-size: 20pt;
+    color: #8E3200;
+    
+
+}
