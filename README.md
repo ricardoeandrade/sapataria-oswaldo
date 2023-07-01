@@ -1,4 +1,4 @@
-# sapataria do Sr.Oswaldo
+# Sapataria do Sr.Oswaldo
 ## Estudos com HTML e CSS
 
-Atividade sapataria do curso SENAI  ford  Enter - Turma 4-Sabado
+Atividade sapataria do curso SENAI Ford Enter - Turma 4 - Sábado

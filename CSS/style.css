@@ -1,50 +1,97 @@
 
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-
-body{
-    background-color: #ae8e7c;
-}
-.page-title{
-
-    color:#8E3200;
-    margin: 40px auto 5px;
+.page-title {
+        /* SHORTHAND MARGENS*/    
+        margin: 40px auto 5px;
+        padding-left: 10px;
+        width: 80%;
+        font-size: 30px;
+        font-weight: bold;
+        color: #8E3200;       
+    }
+h1 {
+    /* margin: 5px auto 25px; */        
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 25px;
     padding-left: 10px;
     width: 80%;
-    font-size: 30pt;
-    color: 8E3200;
-    
+    font-size:30px;
+    color:black;      
 
-}
-header{
-    background-color: #471d12;
-}
+    }    
+
+h2 {
+        /* margin: 5px auto 25px; */        
+        margin-top: 5px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 25px;
+        padding-left: 10px;
+        width: 80%;
+        font-size: 30px;
+        color: #8E3200; 
+
+    }    
 
 
-h2{
-   
-    margin: 5px auto 25px;
-    padding-left: 10px;
+    article{
     width: 80%;
-    font-size: 15pt;
-    color: #8E3200;
-    
- 
-}
+    margin: 40px 0 5px;
+    }
+
+    p{
+        margin-top: 20px;
+    }
+
 main{
-    margin: 5px auto 25px;
-    padding-left: 10px;
     width: 80%;
-    font-size: 15pt;
-    color: #8E3200;
-    
-}
-.article-title{
-    color: blue;
     margin: 40px auto 5px;
-    padding-left: 0px;
-    width: 120%;
-    font-size: 20pt;
-    color: #8E3200;
-    
+    padding-left: 10px;
+}
 
+.article-title {
+    /* SHORTHAND MARGENS*/    
+    margin: 40px auto 5px;    
+    font-size: 22pt;    
+    color: #8E3200;       
+}
+
+.titulo-produto {
+    /* SHORTHAND MARGENS*/    
+    margin: 40px 0 5px; 
+    font-family: 'Rubik', sans-serif;   
+    font-size: 30pt;
+    font-weight:bold;
+    color:white ;     
+    background-color: #8E3200;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+    border-radius: 30px;
+  
+}
+
+.imagem-produto{
+    width: 370px;
+    margin-left: 10px;
+    margin-right: 90px;
+    padding-top: 30px;
+    text-align: center;
+
+}
+footer{
+    background-color: #8E3200;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 25px;
+    height:50px;
+    text-align: center;
+    border-radius: 30px;
+  
+    
+    
+    
 }
