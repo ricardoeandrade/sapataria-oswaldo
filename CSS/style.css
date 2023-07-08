@@ -1,6 +1,7 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
-
+  
+  
 .page-title {
         /* SHORTHAND MARGENS*/    
         margin: 40px auto 5px;
@@ -93,5 +94,16 @@ footer{
   
     
     
+    
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+li{
+    padding-left: 20px;
     
 }
