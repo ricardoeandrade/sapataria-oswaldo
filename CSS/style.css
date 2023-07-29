@@ -1,81 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
-  
-  
+
 .page-title {
-        /* SHORTHAND MARGENS*/    
-        margin: 40px auto 5px;
-        padding-left: 10px;
-        width: 80%;
-        font-size: 30px;
-        font-weight: bold;
-        color: #8E3200;       
-    }
+    /* SHORTHAND MARGENS*/
+    margin: 40px auto 5px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 30px;
+    font-weight: bold;
+    color: #8E3200;
+}
+
 h1 {
-    /* margin: 5px auto 25px; */        
+    /* margin: 5px auto 25px; */
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: 25px;
     padding-left: 10px;
     width: 80%;
-    font-size:30px;
-    color:black;      
+    font-size: 30px;
+    color: black;
 
-    }    
+}
 
 h2 {
-        /* margin: 5px auto 25px; */        
-        margin-top: 5px;
-        margin-right: auto;
-        margin-left: auto;
-        margin-bottom: 25px;
-        padding-left: 10px;
-        width: 80%;
-        font-size: 30px;
-        color: #8E3200; 
+    /* margin: 5px auto 25px; */
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 30px;
+    color: #8E3200;
 
-    }    
+}
 
 
-    article{
+article {
     width: 80%;
     margin: 40px 0 5px;
-    }
+}
 
-    p{
-        margin-top: 20px;
-    }
+p {
+    margin-top: 20px;
+}
 
-main{
+main {
     width: 80%;
     margin: 40px auto 5px;
     padding-left: 10px;
 }
 
 .article-title {
-    /* SHORTHAND MARGENS*/    
-    margin: 40px auto 5px;    
-    font-size: 22pt;    
-    color: #8E3200;       
+    /* SHORTHAND MARGENS*/
+    margin: 40px auto 5px;
+    font-size: 22pt;
+    color: #8E3200;
 }
 
 .titulo-produto {
-    /* SHORTHAND MARGENS*/    
-    margin: 40px 0 5px; 
-    font-family: 'Rubik', sans-serif;   
+    /* SHORTHAND MARGENS*/
+    margin: 40px 0 5px;
+    font-family: 'Rubik', sans-serif;
     font-size: 30pt;
-    font-weight:bold;
-    color:white ;     
+    font-weight: bold;
+    color: white;
     background-color: #8E3200;
     padding-top: 20px;
     padding-bottom: 40px;
     text-align: center;
     border-radius: 30px;
-  
+
 }
 
-.imagem-produto{
+.imagem-produto {
     width: 370px;
     margin-left: 10px;
     margin-right: 90px;
@@ -83,27 +83,62 @@ main{
     text-align: center;
 
 }
-footer{
+
+footer {
     background-color: #8E3200;
     padding-top: 50px;
     padding-bottom: 50px;
     font-size: 25px;
-    height:50px;
+    height: 50px;
     text-align: center;
     border-radius: 30px;
-  
-    
-    
-    
+
+
+
+
 }
-ul{
+
+ul {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
 
 }
-li{
+
+li {
     padding-left: 20px;
-    
+
+}
+
+.menu {
+    display: flex;
+    flex-direction: now;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    text-indent: 90px;
+    width: 80%;
+    margin: auto;
+
+
+}
+
+a:hover {
+    background-color: #66f10a;
+    color: #190af1;
+    transition: .5s;
+    padding: 20px;
+
+}
+
+li a {
+    color: #1a0203;
+    text-decoration: none;
+}
+
+.btn-fixo {
+    text-decoration: none;
+    color: #14b740f1;
+    visibility: visible;
 }
